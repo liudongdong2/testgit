@@ -1,0 +1,17 @@
+{
+    "name": "liudd/test",
+    "description": "this is liudd test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "刘董董",
+            "email": "liudd@changmeng.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liudd": "src/"
+        }
+    }
+}
